@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.main-container{
+    text-align: center;
+    
+    background-color: aqua;
+    width: 12rem;
+    height: 22rem;
+    padding: 2rem;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 241);
+    
+}
+img{
+    height: 90%;
+    width: 100%;
+}
+p{
+    line-break: wrap;
+
+}
+button{
+    background-color: rgb(254, 98, 90);
+    color: #ffffff;
+    height: 3.5rem;
+    width: 5rem;
+    border-radius: 15px ;
+}
